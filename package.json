@@ -1,0 +1,23 @@
+{
+  "name": "angular-passport",
+  "version": "0.0.1",
+  "description": "Test app for proof of concept purposes",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bvs90/angular-passport.git"
+  },
+  "author": "Ben Stone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bvs90/angular-passport/issues"
+  },
+  "homepage": "https://github.com/bvs90/angular-passport",
+  "dependencies": {
+    "express": "^4.12.3",
+    "nodemon": "^1.3.7"
+  }
+}
